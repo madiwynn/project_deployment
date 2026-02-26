@@ -1,0 +1,4 @@
+RUNNING ORDER:
+1. python core.py
+2. python image_processing/main.py  
+3. Check image_processing/out/ for results
