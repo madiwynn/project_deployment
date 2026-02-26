@@ -1,4 +1,9 @@
 RUNNING ORDER:
+
 1. python core.py
-2. python image_processing/main.py  
-3. Check image_processing/out/ for results
+2. python image_processing/main.py
+
+Outputs:
+- image_processing/out/*.dots.svg
+- image_processing/out/*.dots.png
+- image_processing/out/digest.json
