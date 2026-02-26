@@ -3,4 +3,6 @@ def main():
         "status": "active",
         "message": "Deployment pipeline ready"
     }
-print(main())
+
+if __name__ == "__main__":
+    print(main())
